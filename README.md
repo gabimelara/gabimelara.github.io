@@ -1,6 +1,6 @@
 # gabimelara.github.io
 
-This is my portfolio - i'm currently updating it 
+This is my portfolio - i'm currently updating it 😊
 
 <img width="1440" alt="p1" src="https://user-images.githubusercontent.com/68075493/214532640-6b4c774f-bce8-49ce-8cb5-cde9c898b581.png">
 <img width="1440" alt="p2" src="https://user-images.githubusercontent.com/68075493/214532646-b72ffeee-0aa4-4a08-b54a-9cc6f9e8022e.png">
